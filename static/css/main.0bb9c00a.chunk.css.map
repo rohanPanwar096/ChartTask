@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/Chart.css"],"names":[],"mappings":"AAIA,iBAHI,WAOJ,CAJA,QAEI,YAAa,CACb,oBACJ","file":"main.0bb9c00a.chunk.css","sourcesContent":[".efforts {\r\n    width: 100wh;\r\n}\r\n\r\n.noWork {\r\n    width: 100wh;\r\n    height: 100vh;\r\n    background-color: red;\r\n}"]}
