@@ -1,0 +1,9 @@
+.efforts {
+    width: 100wh;
+}
+
+.noWork {
+    width: 100wh;
+    height: 100vh;
+    background-color: red;
+}
