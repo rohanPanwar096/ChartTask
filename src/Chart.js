@@ -97,8 +97,9 @@ export default function Chart({month, week1, week2}) {
                </thead>
                
                <tbody>
-                  <tr style={{display: "flex", justifyContent: "flex-start"}}>
-                      <h3>{week1}</h3>
+                  <tr style={{display: "flex"}}>
+                      <h3 style={{justifyContent: "flex-start"}}>{week1}</h3>
+                      {week2 ? <h3 style={{paddingLeft: "318px" }}>{week2}</h3> : null}
                      </tr>
                    <div>
                     {month === "Nov" ? novemberData.map(row => {
