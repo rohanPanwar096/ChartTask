@@ -3,7 +3,7 @@ import Chart from "./Chart";
 import Input from "./Input";
 
 export default function Resources(props) {
-    const [color, setColor] = useState("")
+    const [color, setColor] = useState("blue")
     const colourDetermination = (color) => {
         switch(color) {
             case "white":

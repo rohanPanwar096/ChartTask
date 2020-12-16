@@ -50,7 +50,7 @@ export default function Input({color}) {
       value={selectedDayRange}
       onChange={setSelectedDayRange}
       colorPrimary={color} // added this
-      colorPrimaryLight={"black"} // and this
+      colorPrimaryLight="rgba(75, 207, 250, 0.4)" // and this
       shouldHighlightWeekends
     />
         </div>
