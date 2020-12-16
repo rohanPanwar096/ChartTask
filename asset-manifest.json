@@ -1,20 +1,23 @@
 {
   "files": {
     "main.css": "/ChartTask/static/css/main.0bb9c00a.chunk.css",
-    "main.js": "/ChartTask/static/js/main.e38fef52.chunk.js",
-    "main.js.map": "/ChartTask/static/js/main.e38fef52.chunk.js.map",
+    "main.js": "/ChartTask/static/js/main.7be0c3f2.chunk.js",
+    "main.js.map": "/ChartTask/static/js/main.7be0c3f2.chunk.js.map",
     "runtime-main.js": "/ChartTask/static/js/runtime-main.bd48d34e.js",
     "runtime-main.js.map": "/ChartTask/static/js/runtime-main.bd48d34e.js.map",
-    "static/js/2.f0bb82b1.chunk.js": "/ChartTask/static/js/2.f0bb82b1.chunk.js",
-    "static/js/2.f0bb82b1.chunk.js.map": "/ChartTask/static/js/2.f0bb82b1.chunk.js.map",
+    "static/css/2.415711f0.chunk.css": "/ChartTask/static/css/2.415711f0.chunk.css",
+    "static/js/2.9460dbd4.chunk.js": "/ChartTask/static/js/2.9460dbd4.chunk.js",
+    "static/js/2.9460dbd4.chunk.js.map": "/ChartTask/static/js/2.9460dbd4.chunk.js.map",
     "index.html": "/ChartTask/index.html",
+    "static/css/2.415711f0.chunk.css.map": "/ChartTask/static/css/2.415711f0.chunk.css.map",
     "static/css/main.0bb9c00a.chunk.css.map": "/ChartTask/static/css/main.0bb9c00a.chunk.css.map",
-    "static/js/2.f0bb82b1.chunk.js.LICENSE.txt": "/ChartTask/static/js/2.f0bb82b1.chunk.js.LICENSE.txt"
+    "static/js/2.9460dbd4.chunk.js.LICENSE.txt": "/ChartTask/static/js/2.9460dbd4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.bd48d34e.js",
-    "static/js/2.f0bb82b1.chunk.js",
+    "static/css/2.415711f0.chunk.css",
+    "static/js/2.9460dbd4.chunk.js",
     "static/css/main.0bb9c00a.chunk.css",
-    "static/js/main.e38fef52.chunk.js"
+    "static/js/main.7be0c3f2.chunk.js"
   ]
 }
